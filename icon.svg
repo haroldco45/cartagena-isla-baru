@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="112" fill="#0a1a2f"/>
+  <circle cx="256" cy="210" r="96" fill="#ffc21a"/>
+  <path d="M0 330c60-30 120-30 180 0s120 30 180 0 110-30 152-10V512H0z" fill="#00b4c6"/>
+  <path d="M0 390c60-26 120-26 180 0s120 26 180 0 110-26 152-8V512H0z" fill="#008fa0"/>
+  <text x="256" y="480" font-family="Arial Black,Arial,sans-serif" font-size="58" font-weight="900" fill="#fff" text-anchor="middle">BARÚ</text>
+</svg>

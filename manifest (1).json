@@ -1,0 +1,14 @@
+{
+  "name": "Cartagena + Isla Barú · Turisteando",
+  "short_name": "Cartagena Barú",
+  "description": "Excursión a Cartagena e Isla Barú, 9, 10 y 11 de enero. $560.000 por persona.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0a1a2f",
+  "theme_color": "#0a1a2f",
+  "lang": "es-CO",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
